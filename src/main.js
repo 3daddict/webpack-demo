@@ -1,1 +1,1 @@
-alert('Testing Webpack Server Yay!');
+require("./assets/css/main.css");
