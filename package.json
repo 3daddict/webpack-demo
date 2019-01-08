@@ -16,12 +16,10 @@
     "url": "https://github.com/3daddict/webpack-demo/issues"
   },
   "homepage": "https://github.com/3daddict/webpack-demo#readme",
-  "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-core": "^6.26.3",
-    "babel-loader": "^8.0.5",
-    "babel-preset-env": "^1.7.0",
+  "devDependencies": {},
+  "dependencies": {
     "webpack": "^4.28.3",
-    "webpack-cli": "^3.2.0"
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14"
   }
 }
